@@ -2,4 +2,4 @@ Hello, my name is Duncan, I'm a lecturer (≈ [Assistant Professor](https://en.w
 
 I'm currently writing an undergraduate textbook called *Coding Your Future* at [cdyf.me](https://www.cdyf.me/) - pull requests welcome! 👨‍💻
 
-There's more info on me at [www.cs.man.ac.uk/~hulld](http://www.cs.man.ac.uk/~hulld/)
+There's more info on me at [personalpages.manchester.ac.uk/staff/duncan.hull/](https://personalpages.manchester.ac.uk/staff/duncan.hull/)
