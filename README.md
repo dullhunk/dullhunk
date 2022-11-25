@@ -4,8 +4,8 @@ I'm currently writing an undergraduate course & textbook called *Coding Your Fut
 
 * comments
 * questions
-* github stars 
 * pull requests
 * contributions
+* github stars (if you find the guidebook useful)
 
 There's more info on me at [manchester.ac.uk/staff/duncan.hull](https://personalpages.manchester.ac.uk/staff/duncan.hull/)
