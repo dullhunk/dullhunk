@@ -8,6 +8,6 @@ I'm currently writing an undergraduate textbook and course called *Coding Your F
 * questions
 * pull requests
 * contributions
-* github stars ⭐️ if you find the guidebook useful
+* github stars, if you find the guidebook useful ⭐️
 
 There's more info on me at [manchester.ac.uk/staff/duncan.hull](https://personalpages.manchester.ac.uk/staff/duncan.hull/)
